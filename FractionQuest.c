@@ -568,7 +568,7 @@ int main(void)
         break;
         case TUTORIAL:
         {
-
+            int tutorial = 0;
             while (escenaActual == TUTORIAL)
             {
                 ClearBackground(BLACK);
